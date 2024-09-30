@@ -1,7 +1,7 @@
 ///
 ///   ble_gamepad.ino
 ///
-///   created: 2023-10
+///   created: 2024-10
 ///
 ///   Create a wireless Human Interface Device (HID) gamepad using the Bluetooth Low-Energy (BLE)
 ///   HID-over-GATT Profile (HOGP) on an Arduino Nano 33 BLE Sense Rev2.
